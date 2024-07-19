@@ -11,18 +11,15 @@
 import Desenvolvedor from 'Marcone(MSB)';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Marcone Silva de Brito';
+  nome = 'Marcone Silva de Brito';
   idade = '39 anos';
-  local = 'Montes Claros-MG, Brasil';🔰
-  area  = ' Estudante de Sistema de Informação 👨‍🎓 - Hoje estou no 7º Período';
-  - 
-‍ Já realizei vários trabalhos voluntários';
-    'Estou sempre em buscas de novos desafios ';🚀
+  local = 'Montes Claros-MG, Brasil 🔰';
+  area = 'Estudante de Sistema de Informação 👨‍🎓 - Hoje estou no 7º Período. Já realizei vários trabalhos voluntários. Estou sempre em busca de novos desafios 🚀';
   hobby = 'Eu adoro natação 🏊‍♀️ e pedalar 🚵';
 }
 
 class Skills extends Desenvolvedor {
-  Skills  = ['Desenvolvimento-Web', 'FrontEnd', 'Backend'];
+  skills = ['Desenvolvimento-Web', 'FrontEnd', 'Backend'];
 }
 ```
 
