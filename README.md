@@ -7,23 +7,25 @@
 
 # 🚀 Olá, **🌐** eu sou Marcone Silva de Brito - Software Developer 
 
-```js
-import Desenvolvedor from 'Marcone(MSB)';
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px" alt="Computador iuriCode" style="margin-right: 20px;">
+  <pre>
+  ```js
+  import Desenvolvedor from 'Marcone(MSB)';
 
-class SobreMim extends Desenvolvedor {
-  nome = 'Marcone Silva de Brito';
-  idade = '39 anos';
-  local = 'Montes Claros-MG, Brasil 🔰';
-  area = 'Estudante de Sistema de Informação 👨‍🎓 - Hoje estou no 7º Período.
-  Já realizei vários trabalhos voluntários.
-  Estou sempre em busca de novos desafios 🚀';
-  hobby = 'Eu adoro natação 🏊‍♀️ e pedalar 🚵';
-}
+  class SobreMim extends Desenvolvedor {
+    nome = 'Marcone Silva de Brito';
+    idade = '39 anos';
+    local = 'Montes Claros-MG, Brasil 🔰';
+    area = 'Estudante de Sistema de Informação 👨‍🎓 - Hoje estou no 7º Período.
+    Já realizei vários trabalhos voluntários.
+    Estou sempre em busca de novos desafios 🚀';
+    hobby = 'Eu adoro natação 🏊‍♀️ e pedalar 🚵';
+  }
 
-class Skills extends Desenvolvedor {
-  skills = ['Desenvolvimento-Web', 'FrontEnd', 'Backend'];
-}
-```
+  class Skills extends Desenvolvedor {
+    skills = ['Desenvolvimento-Web', 'FrontEnd', 'Backend'];
+  }
 
 
 ## Sobre mim
