@@ -60,6 +60,7 @@ class Skills extends Desenvolvedor {
 3. [Projeto 3](https://marconesdb.github.io/SiteTrabalhadoresDaUltimaHora/): Site para a Instituição de Caridade Trabalhadores da Última Hora.
 4. [Projeto 4](https://www.solardejesus.com.br): Site para a Instituição de Caridade Solar de Jesus.
 5. [Projeto 5](https://portifolio-react-3qhv.vercel.app/): Meu Portifólio.
+6. [Projeto 5](https://github.com/marconesdb/Crud_React-Node-MySQL): Crud feito com as tecnologias React.Js, Tailwind.CSS,  Node.Js e MySQL.
 
 ## Vamos Criar Algo Incrível! 💫
 
