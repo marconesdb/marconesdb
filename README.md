@@ -17,7 +17,7 @@
     [![My Skills](https://skillicons.dev/icons?i=php,javascript,python,java,typescript)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,bootstrap,node)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,bootstrap,nodejs)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
