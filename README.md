@@ -8,8 +8,7 @@
 # 🚀 Olá, **🌐** eu sou Marcone Silva de Brito - Software Developer 
 
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200px" alt="Computador iuriCode" style="margin-right: 20px;">
-  <pre>
+
   ```js
   import Desenvolvedor from 'Marcone(MSB)';
 
