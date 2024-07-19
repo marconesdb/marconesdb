@@ -4,7 +4,7 @@
 
 # 🚀 Olá, **🌐** eu sou Marcone Silva de Brito - Software Developer 
 
-```js
+```
 import Desenvolvedor from 'Marcone(MSB)';
 
 class SobreMim extends Desenvolvedor {
@@ -17,6 +17,7 @@ class SobreMim extends Desenvolvedor {
     'Estou sempre em buscas de novos desafios ';🚀
   hobby = 'Eu adoro natação 🏊‍♀️ e pedalar 🚵';
 }
+```
 
 ## Sobre mim
 
