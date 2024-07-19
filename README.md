@@ -6,7 +6,7 @@
 </div>
 
 # 🚀 Olá, **🌐** eu sou Marcone Silva de Brito - Software Developer 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ```js
 import Desenvolvedor from 'Marcone(MSB)';
 
@@ -25,6 +25,7 @@ class Skills extends Desenvolvedor {
 }
 ```
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 ## Sobre mim
 
 ✨ Sou um Desenvolvedor de Software dedicado e apaixonado por transformar ideias inovadoras em soluções tecnológicas eficientes. Com uma sólida formação em Sistemas de Informação, busco constantemente aprimorar minhas habilidades e contribuir para projetos que façam a diferença no mundo digital.✨
