@@ -10,11 +10,11 @@
 
 ## Habilidades Tecnológicas
 
-💻 Aqui estão algumas das tecnologias que eu domino:
+💻 Aqui estão algumas das tecnologias que eu estudo:
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=php,javascript,python,java)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=php,javascript,python,java,typescript)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
