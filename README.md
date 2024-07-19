@@ -54,9 +54,10 @@ class Skills extends Desenvolvedor {
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
-2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
-3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
+1. [Projeto 1](https://site-karina-cevalles.vercel.app/): Landpage ficticia para uma advogada.
+2. [Projeto 2](https://site-lacosdeamor.vercel.app/): Site para a Instituição Filantrópica Laços de Amor .
+3. [Projeto 3](https://marconesdb.github.io/SiteTrabalhadoresDaUltimaHora/): Site para a Instituição de Caridade Trabalhadores da Última Hora.
+4. [Projeto 3](https://www.solardejesus.com.br): Site para a Instituição de Caridade Solar de Jesus.
 
 ## Vamos Criar Algo Incrível! 💫
 
