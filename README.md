@@ -1,12 +1,13 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
+  <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> <dotlottie-player src="" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
 </div>
 
-# 🚀 Olá, eu sou [Marcone Silva de Brito] - Software Developer 
+# 🚀 Olá, eu sou Marcone Silva de Brito - Software Developer 
 
 ## Sobre mim
 
-✨ Sou um(a) desenvolvedor(a) apaixonado(a) por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+✨ Sou um Desenvolvedor de Software dedicado e apaixonado por transformar ideias inovadoras em soluções tecnológicas eficientes. Com uma sólida formação em Sistemas de Informação, busco constantemente aprimorar minhas habilidades e contribuir para projetos que façam a diferença no mundo digital.✨
 
 ## Habilidades Tecnológicas
 
