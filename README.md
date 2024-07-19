@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
-  <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> <dotlottie-player src="" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+  <img src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module" alt="Software Developer">
 </div>
 
 # 🚀 Olá, eu sou Marcone Silva de Brito - Software Developer 
