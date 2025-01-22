@@ -58,12 +58,12 @@ class Skills extends Desenvolvedor {
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
 
-1. [Projeto 1](https://site-karina-cevalles.vercel.app/): Landpage fictícia para uma advogada.
-2. [Projeto 2](https://site-lacosdeamor.vercel.app/): Site para a Instituição Filantrópica Laços de Amor .
-3. [Projeto 3](https://marconesdb.github.io/SiteTrabalhadoresDaUltimaHora/): Site para a Instituição de Caridade Trabalhadores da Última Hora.
-4. [Projeto 4](https://www.solardejesus.com.br): Site para a Instituição de Caridade Solar de Jesus.
+1. [Projeto 1](https://site-karina-cevalles.vercel.app/): Site fictício para uma advogada.
+2. [Projeto 2](https://ecommerce-git-main-marconesbs-projects.vercel.app/): Página Home de um Ecommercer .
+3. [Projeto 3](https://marconesdb.github.io/CreditCardForm/): Página de Pagamento com Cartão de Crédito.
+4. [Projeto 4](https://marconesdb.github.io/ManageLandingpage/): Landing Page criado no curso Descodificadas.
 5. [Projeto 5](https://layout-novo-portfolio.vercel.app/): Meu Portifólio.
-6. [Projeto 6](https://github.com/marconesdb/Crud_React-Node-MySQL): Crud feito com as tecnologias React.Js, Tailwind.CSS,  Node.Js e MySQL.
+6. [Projeto 6](https://site-lacosdeamor.vercel.app/): Site da Instituição Laços de Amor.
 
 ## Vamos Criar Algo Incrível! 💫
 
