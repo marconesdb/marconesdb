@@ -14,8 +14,7 @@ class SobreMim extends Desenvolvedor {
   nome = 'Marcone Silva de Brito';
   idade = '39 anos';
   local = 'Montes Claros-MG, Brasil 🔰';
-  area = 'Estudante de Sistema de Informação 👨‍🎓
-  - Hoje estou no 7º Período.
+    area = 'Analista de Sistemas 👨‍🎓
   Já realizei vários trabalhos voluntários.
   Estou sempre em busca de novos desafios 🚀';
   hobby = 'Eu adoro natação 🏊‍♀️ e pedalar 🚵';
