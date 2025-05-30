@@ -33,7 +33,7 @@ class Skills extends Desenvolvedor {
 
 ## Currículo Lattes
 
-📄💼🎯 [Currículo Lattes](http://lattes.cnpq.br/9856808646398024):
+📄💼🎯 [Currículo Lattes](http://lattes.cnpq.br/9856808646398024)
 
 ## Habilidades Tecnológicas
 
