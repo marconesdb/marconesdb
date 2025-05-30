@@ -31,7 +31,9 @@ class Skills extends Desenvolvedor {
 
 ✨ Sou um Desenvolvedor de Software dedicado e apaixonado por transformar ideias inovadoras em soluções tecnológicas eficientes. Com uma sólida formação em Sistemas de Informação, busco constantemente aprimorar minhas habilidades e contribuir para projetos que façam a diferença no mundo digital.✨
 
+## Currículo Lattes
 
+📄💼🎯 [Currículo Lattes]([https://site-karina-cevalles.vercel.app/](http://lattes.cnpq.br/9856808646398024):
 
 ## Habilidades Tecnológicas
 
@@ -61,8 +63,8 @@ class Skills extends Desenvolvedor {
 2. [Projeto 2](https://ecommerce-git-main-marconesbs-projects.vercel.app/): Página Home de um Ecommercer .
 3. [Projeto 3](https://marconesdb.github.io/CreditCardForm/): Página de Pagamento com Cartão de Crédito.
 4. [Projeto 4](https://marconesdb.github.io/ManageLandingpage/): Landing Page criado no curso Descodificadas.
-5. [Projeto 5](https://layout-novo-portfolio.vercel.app/): Meu Portifólio.
-6. [Projeto 6](https://site-lacosdeamor.vercel.app/): Site da Instituição Laços de Amor.
+5. [Projeto 5](https://github.com/marconesdb/landPageOneBitCode): Landin Page Tom's Jazz School.
+6. [Projeto 6](https://github.com/marconesdb/PositivusLandinpage): Landin Page Positivus.
 
 ## Vamos Criar Algo Incrível! 💫
 
